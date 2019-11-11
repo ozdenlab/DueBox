@@ -1,0 +1,2 @@
+sensor_trigger_ports	KEYWORD1
+set_all	KEYWORD2
