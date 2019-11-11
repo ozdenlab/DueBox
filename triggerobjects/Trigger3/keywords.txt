@@ -1,0 +1,5 @@
+Trigger3	KEYWORD1
+start	KEYWORD2
+stop	KEYWORD2
+set	KEYWORD2
+trigger3	KEYWORD2
